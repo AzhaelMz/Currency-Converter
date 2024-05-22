@@ -1,4 +1,4 @@
-#**CURRENCY-CONVERTER**
+**#CURRENCY-CONVERTER**
 
 
 Welcome to my currency converter made it with Java. This my first challenge for the back end specialization 

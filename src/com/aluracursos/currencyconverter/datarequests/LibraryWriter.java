@@ -1,6 +1,6 @@
 package com.aluracursos.currencyconverter.datarequests;
 
-import com.aluracursos.currencyconverter.userinterface.UserInput;
+import com.aluracursos.currencyconverter.exceptions.UserInput;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

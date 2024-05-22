@@ -1,4 +1,4 @@
-package com.aluracursos.currencyconverter.userinterface;
+package com.aluracursos.currencyconverter.exceptions;
 
 public class NoValidOptionsException extends Exception{
     public NoValidOptionsException(String message){

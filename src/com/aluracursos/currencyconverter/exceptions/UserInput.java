@@ -1,4 +1,4 @@
-package com.aluracursos.currencyconverter.userinterface;
+package com.aluracursos.currencyconverter.exceptions;
 
 public class UserInput {
     private float currencyValue;

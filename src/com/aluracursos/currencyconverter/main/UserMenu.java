@@ -1,4 +1,4 @@
-package com.aluracursos.currencyconverter;
+package com.aluracursos.currencyconverter.main;
 
 public class UserMenu {
     public void firstMessageToUser(String process){

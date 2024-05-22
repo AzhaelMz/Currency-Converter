@@ -1,11 +1,11 @@
-package com.aluracursos.currencyconverter;
+package com.aluracursos.currencyconverter.main;
 
 import com.aluracursos.currencyconverter.datarequests.APIhandler;
 import com.aluracursos.currencyconverter.datarequests.CurrencyRate;
 import com.aluracursos.currencyconverter.datarequests.LibraryWriter;
-import com.aluracursos.currencyconverter.userinterface.ExitException;
-import com.aluracursos.currencyconverter.userinterface.NoValidOptionsException;
-import com.aluracursos.currencyconverter.userinterface.UserInput;
+import com.aluracursos.currencyconverter.exceptions.ExitException;
+import com.aluracursos.currencyconverter.exceptions.NoValidOptionsException;
+import com.aluracursos.currencyconverter.exceptions.UserInput;
 
 import java.io.IOException;
 import java.util.ArrayList;

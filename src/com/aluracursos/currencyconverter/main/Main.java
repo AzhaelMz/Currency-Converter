@@ -48,9 +48,12 @@ public class Main {
                 }
             }catch (IllegalArgumentException e){
                 System.out.println("Url error, please check de link");
-            }catch (ExitException e){
+            }catch (ExitException e) {
                 System.out.println(e.getMessage());
                 break;
+            }catch (InputMismatchException e){
+                input.nextLine();
+                System.out.println("Error use a number option");
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
@@ -76,7 +79,7 @@ public class Main {
         } catch (InputMismatchException e) {
             input.nextLine();
             System.out.println("\n Error: invalid input value. Try again.");
-        }catch (NoValidOptionsException e){
+        }catch (NoValidOptionsException e) {
             System.out.println(e.getMessage());
         }
 
@@ -88,6 +91,7 @@ public class Main {
         }
 
     }
+
     public static String getUserCurrency(int choseOption){
         String currency ="";
 

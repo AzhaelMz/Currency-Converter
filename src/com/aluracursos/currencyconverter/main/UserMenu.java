@@ -2,7 +2,7 @@ package com.aluracursos.currencyconverter.main;
 
 public class UserMenu {
     public void firstMessageToUser(String process){
-        System.out.println("Please select the currency you want to" + process +" (ONLY NUMBERS): ");
+        System.out.println("Please select the currency you want to" + process +" (ONLY NUMBER OPTION): ");
     }
     public void currenciesMenu(){
         System.out.println("""

@@ -1,11 +1,11 @@
-**#CURRENCY-CONVERTER**
+**CURRENCY-CONVERTER**
 
 
 Welcome to my currency converter made it with Java. This my first challenge for the back end specialization 
 offered by Alura Latam and Oracle Next Education (Thanks a lot)
 
 
-**Objetive**
+##**Objetive**
 
 
 This program use an Api to allow user make exchange between the curriencies

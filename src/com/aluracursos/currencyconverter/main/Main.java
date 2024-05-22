@@ -119,7 +119,7 @@ public class Main {
     private static void exchangeCalc(float conversionFactor, Scanner input, UserInput base){
         float exchangedCurrency;
         float currencyToExchange;
-        System.out.println("Write the currency amount you want to exchange: $");
+        System.out.println("Now write the currency amount you want to exchange: $");
         base.setCurrencyValue(input.nextFloat());
 
         exchangedCurrency = base.getCurrencyValue() * conversionFactor;

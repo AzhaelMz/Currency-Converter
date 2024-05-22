@@ -1,4 +1,4 @@
-package com.aluracursos.currencyconverter;
+package com.aluracursos.currencyconverter.datarequests;
 
 import java.util.Map;
 

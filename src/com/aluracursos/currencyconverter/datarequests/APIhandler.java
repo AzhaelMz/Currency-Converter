@@ -1,4 +1,4 @@
-package com.aluracursos.currencyconverter;
+package com.aluracursos.currencyconverter.datarequests;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,5 +1,8 @@
 package com.aluracursos.currencyconverter;
 
+import com.aluracursos.currencyconverter.datarequests.APIhandler;
+import com.aluracursos.currencyconverter.datarequests.CurrencyRate;
+import com.aluracursos.currencyconverter.datarequests.LibraryWriter;
 import com.aluracursos.currencyconverter.userinterface.ExitException;
 import com.aluracursos.currencyconverter.userinterface.NoValidOptionsException;
 import com.aluracursos.currencyconverter.userinterface.UserInput;

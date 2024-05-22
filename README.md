@@ -5,7 +5,7 @@ Welcome to my currency converter made it with Java. This my first challenge for 
 offered by Alura Latam and Oracle Next Education (Thanks a lot)
 
 
-**##Objetive**
+**Objetive**
 
 
 This program use an Api to allow user make exchange between the curriencies
@@ -19,3 +19,8 @@ At this moment you can...
 1. Make exchanges betwen the curriences showed in the menu.
 2. If you finish to consult your exchange you can make another exchange or exit the program.
 3. ...(I still working for more features :D)
+
+   
+**But... How can I use it?**
+
+

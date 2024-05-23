@@ -37,7 +37,8 @@ I recommend you the first option. I'll try to make a package to run just with a 
 
 
 When you are ready with the program open you will see the currencies menu and first select the currency you want to exchange. 
-![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/b776bdd6-bb91-427a-936b-6c86823979b1)
+![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/cf6410fb-e339-4f71-b0d9-13116230d569)
+
 
 For example if you will change USD Dollars to Mexican Pesos you will select first the number 1 option (USD) then you will select the
 number 2 option (MXN)  to select the currency from you want to obtain.

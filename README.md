@@ -31,16 +31,30 @@ I recommend you the first option. I'll try to make a package to run just with a 
 
 **Instructions**
 
-
-When you are ready with the program open you will first select the currency you want to exchange. 
+======= REMEMBER ALWAYS USE NUMBERS TO SELECT AN OPTION. IF YOU DON'T USE IT YOU CAN NOT CONTINE :(===========
+When you are ready with the program open you will see the currencies menu and first select the currency you want to exchange. 
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/b776bdd6-bb91-427a-936b-6c86823979b1)
 
-For example if you will change USD Dollars to Mexican Pesos you will select the number 1 option (USD) an then the program will
-ask for the currency you want to obtain and you will select the number 2 option.
-After of this the program will ask the amount you want to exchange.
+For example if you will change USD Dollars to Mexican Pesos you will select first the number 1 option (USD) then you will select the
+number 2 option (MXN)  to select the currency from you want to obtain.
+![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/cfc558e7-785b-4452-a56a-fbbcc796f819)
+
+
+After of this the program will ask the amount you want to exchange and you will put the amount you want to exchange.
+![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/7cdb54db-bbbd-4096-929a-391f5ba5d2bd)
+
+
+And... "Voilá" you will see the exchange updated in real time. When you obtain this the program give you an option to continue or finish.
+![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/4ef35873-18cd-441c-977b-915802539ac1)
+
+Choose the option you want.
+
 
 **Developer**
 
 
 Roberto Azhael Manzon Tamayo.
+
+
+** **
 

@@ -44,16 +44,22 @@ When you are ready with the program open you will see the currencies menu and fi
 
 For example if you will change USD Dollars to Mexican Pesos you will select first the number 1 option (USD) then you will select the
 number 2 option (MXN)  to select the currency from you want to obtain.
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/a5e5594b-97c7-4ffb-8eb4-c89bfe480bab)
 
 
 
 After of this the program will ask the amount you want to exchange and you will put the amount you want to exchange.
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/e9e4a479-7158-45bc-b438-2f38925d18a4)
 
 
 
 And... "Voilá" you will see the exchange updated in real time. When you obtain this the program give you an option to continue or finish.
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/68253d9e-7df7-49d9-aa82-d3e3a43ec501)
 
 

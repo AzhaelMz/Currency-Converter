@@ -72,15 +72,19 @@ Choose the option you want.
 Roberto Azhael Manzon Tamayo.
 
 
-** How are errors handled?  **
+**How are errors handled?**
 
 
 Well if the users put an incorret option for example words (¬¬) i add exceptions to avoid the program closes and the user can 
 continue without run the program again and it gives a message to the user to use the correctly option.
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/fa4f38f5-887b-40c8-a526-f1628dc7f9e2)
 
 
 The other error it's if the user put a no showed number option in the menu it gives a message to use only the number options showed :)
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/01956a58-2345-4e8f-a49a-6808b979790a)
 
 

@@ -60,5 +60,10 @@ Choose the option you want.
 Roberto Azhael Manzon Tamayo.
 
 
-** **
+** How are errors handled?  **
+
+
+Well if the users put an incorret option for example words (¬¬) i add exceptions to avoid the program closes and the user can 
+continue without run the program again and it gives a message to the user to use the correctly option.
+
 

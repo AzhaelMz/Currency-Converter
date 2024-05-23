@@ -37,6 +37,8 @@ I recommend you the first option. I'll try to make a package to run just with a 
 
 
 When you are ready with the program open you will see the currencies menu and first select the currency you want to exchange. 
+
+
 ![image](https://github.com/AzhaelMz/Currency-Converter/assets/158383050/cf6410fb-e339-4f71-b0d9-13116230d569)
 
 

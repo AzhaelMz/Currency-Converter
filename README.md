@@ -1,18 +1,18 @@
-**CURRENCY-CONVERTER**
+## 💵💶💷CURRENCY-CONVERTER
 
 
 Welcome to my currency converter made it with Java. This my first challenge for the back end specialization 
 offered by Alura Latam and Oracle Next Education (Thanks a lot)
 
 
-**Objetive**
+##🎯Objective
 
 
 This program use an Api to allow user make exchange between the curriencies
 avaiable. (I'll add more currencies later :D).
 
 
-**Features**
+## 🧐Features
 
 
 At this moment you can...
@@ -21,7 +21,7 @@ At this moment you can...
 3. ...(I still working for more features :D)
 
    
-**But... How can I use it?**
+##🤔But... How can I use it?
 
 
 -(1st Option) Let's to be honest the most easy way is get an IDE compiler, download and extract the zip from this repository, open the proyect and run by the IDE compiler.
@@ -31,7 +31,7 @@ At this moment you can...
 I recommend you the first option. I'll try to make a package to run just with a click in future updates ;).
 
 
-**Instructions**
+##📄Instructions
 
 ===>REMEMBER ALWAYS USE NUMBERS TO SELECT AN OPTION. IF YOU DON'T USE IT YOU CAN NOT CONTINE :(<====
 
